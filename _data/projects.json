@@ -5,49 +5,16 @@
 		"image": "marketingattribution.png",
 		"url": "https://youtu.be/CL1ed7AR0FE",
 		"date": "Feb 2018",
+		"description": "This was a demonstration from https://netpeak.net/blog/how-to-measure-lost-revenue-in-google-adwords-with-the-help-of-language-r/.",
 		"tags": ["Adobe Analytics", "Bash", "R", "Laki","Data Science"]
 	},
-	{
-		"slug": "adwords-lost-revenue-performance",
-		"name": "Adwords Lost Revenue Performance Forecasting",
-		"image": "ga_and_adwords.png",
-		"url": "https://youtu.be/e1y1J5zQ23o",
-		"date": "Jan 2018",
-		"tags": ["Adwords", "Excel", "Google Analytics", "Data Science"]
-	},
-	{
-		"name": "Adwords Performance Lost By Budget or Rank with R",
-		"image": "adwordsrevenue.png",
-		"url": "https://youtu.be/M34hx2ZYH0g",
-		"date": "Dec 2017",
-		"description": "This was a demonstration from https://netpeak.net/blog/how-to-measure-lost-revenue-in-google-adwords-with-the-help-of-language-r/.",
-		"tags": ["R","Adwords","Google Analytics","Adobe Analytics","Data Science"]
-	},
-	{
-		"name": "Twitter Analysis in R",
-		"image": "retweet.png",
-		"url": "https://github.com/thesmarthomeninja/twiiteR-analysis",
-		"date": "November 2017",
-		"tags": ["R","Social","Data Science","Github"]
-	},
-	{
-		"name": "RPubs Portfolio of Work - A MUST SEE",
-		"image": "rpub.png",
-		"date": "November 2016",
-		"url": "http://rpubs.com/thesmarthomeninja",
-		"tags": ["R","R Programming","Analytics","Data Science","Adobe Analytics","Google Analytics","SEO"]
-	},
-	{
-		"name": "The Smart Home Ninja: Blog",
-		"image": "smarthomeninja.png",
-		"date": "June 2015",
-		"url": "https://thesmarthomeninja.com",
-		"tags": ["Smart Home","Blog","Technology"]
-	},{
-		"name": "My Videos and Youtube Channel",
-		"image": "youtubevideos.png",
-		"url": "https://www.youtube.com/channel/UCB6ui61U1LLKzHhm4hkc7ag?view_as=public",
-		"date": "May 2015",
-		"tags": ["R","Analytics","Smart Home","Data Science","You Tube"]
-	}
+#	{
+#		"slug": "adwords-lost-revenue-performance",
+#		"name": "Adwords Lost Revenue Performance Forecasting",
+#		"image": "ga_and_adwords.png",
+#		"url": "https://youtu.be/e1y1J5zQ23o",
+#		"date": "Jan 2018",
+#		"tags": ["Adwords", "Excel", "Google Analytics", "Data Science"]
+#	},
+	
 ]
