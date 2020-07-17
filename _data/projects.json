@@ -1,11 +1,11 @@
 [
 	{
 		"slug": "marketing-attribution-theory-and-models-in-R",
-		"name": "Marketing Attribution Theory and Modeling",
+		"name": "How to change it?",
 		"image": "marketingattribution.png",
 		"url": "https://youtu.be/CL1ed7AR0FE",
 		"date": "Feb 2018",
-		"tags": ["Adobe Analytics", "Spark", "R", "Attribution","Data Science"]
+		"tags": ["Adobe Analytics", "Bash", "R", "Laki","Data Science"]
 	},
 	{
 		"slug": "adwords-lost-revenue-performance",
