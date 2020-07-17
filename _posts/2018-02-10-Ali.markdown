@@ -1,32 +1,22 @@
 Hi.....
 
-<math display='block'>
- <semantics>
-  <mrow>
-   <mi>X</mi><mo>=</mo><mn>2</mn><mstyle displaystyle='true'>
-    <mrow><mo>&#x222B;</mo>
-     <mrow>
-      <mn>4</mn><mi>s</mi><mo>&#x2212;</mo><msubsup>
-       <mi>f</mi>
-       <mi>e</mi>
-       <mn>4</mn>
-      </msubsup>
-      </mrow>
-    </mrow>
-    
-   </mstyle></mrow>
-  <annotation encoding='MathType-MTEF'>MathType@MTEF@5@5@+=
-  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbd1uvGm
-  vyUnhitvMCPzgarmqr1ngBPrgitLxBI9gBaerbd9wDYLwzYbItLDha
-  ruavP1wzZbItLDhis9wBH5garqqr1ngBPrgifHhDYfgasaacH8srps
-  0lbbf9q8WrFfeuY=Hhbbf9v8qqaqFr0xc9pk0xbba9q8WqFfea0=yr
-  0RYxir=Jbba9q8aq0=yq=He9q8qqQ8frFve9Fve9Ff0dmeaabaqaci
-  GacaGaaeqabaWaaqaafaaakeaacaWGybGaeyypa0JaaGOmamaapeaa
-  baGaaGinaiaadohacqGHsislcaWGMbWaa0baaSqaaiaadwgaaeaaca
-  aI0aaaaaqabeqaniabgUIiYdaaaa@48E0@
-  </annotation>
- </semantics>
-</math>
+
+
+<m:math display='block'>
+ <m:mrow>
+  <m:mi>X</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mstyle displaystyle='true'>
+   <m:mrow><m:mo>&#x222B;</m:mo>
+    <m:mrow>
+     <m:mn>4</m:mn><m:mi>s</m:mi><m:mo>&#x2212;</m:mo><m:msubsup>
+      <m:mi>f</m:mi>
+      <m:mi>e</m:mi>
+      <m:mn>4</m:mn>
+     </m:msubsup>
+     </m:mrow>
+   </m:mrow>
+   
+  </m:mstyle></m:mrow>
+</m:math>
 
 
 \[X = 2\int {4s - f_e^4} \]
