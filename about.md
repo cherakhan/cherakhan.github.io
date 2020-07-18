@@ -24,7 +24,7 @@ For my master degree, I moved to <i>Memorial University of Newfoundland</i> , St
 
 <h1 style="font-size:20px;; color:orange"># PhD</h1>
 <p>
-In 2018, I joined <code>Dr. Jamie Piret</code> lab as a PhD student at University of British Columbia. My project is on T cell manufacturing for clinical trail. For this project, I use machine learning, mathematical modeling along dong experiment in the lab.
+In 2018, I joined <code>Dr. Jamie Piret's</code> lab as a PhD student and am co-supervised by <code>Dr. Bhushan Gopaluni</code> at University of British Columbia. My project is on T cell manufacturing for clinical trail. For this project, I use machine learning, mathematical modeling along dong experiment in the lab.
 
 </p>
 
