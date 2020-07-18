@@ -5,23 +5,6 @@ permalink: /about/
 ---
 
 <h1 style="font-size:20px;; color:orange"># Who am I?</h1>
-
-<math display='block'>
- <mrow>
-  <mi>a</mi><mstyle displaystyle='true'>
-   <mrow><munderover>
-    <mo>&#x222B;</mo>
-    <mn>0</mn>
-    <mi>c</mi>
-   </munderover>
-   <mrow>
-    <mn>2</mn><mi>x</mi><mo>&#x2212;</mo><mn>1</mn></mrow>
-  </mrow>
-  
- </mstyle></mrow>
-</math>
-
-
 <p>
 Hi, I am <code>Ali</code>, a <i>Data Analyst</i> and <i>Biomedical Engineer</i> from Iran, who is interested in the application of mathematics in biology and loves to contribute in clinical trials using T cells.
 <p>
