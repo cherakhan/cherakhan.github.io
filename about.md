@@ -6,20 +6,20 @@ permalink: /about/
 
 <h1 style="font-size:20px;; color:orange"># Who am I?</h1>
 
-<m:math display='block'>
- <m:mrow>
-  <m:mi>a</m:mi><m:mstyle displaystyle='true'>
-   <m:mrow><m:munderover>
-    <m:mo>&#x222B;</m:mo>
-    <m:mn>0</m:mn>
-    <m:mi>c</m:mi>
-   </m:munderover>
-   <m:mrow>
-    <m:mn>2</m:mn><m:mi>x</m:mi><m:mo>&#x2212;</m:mo><m:mn>1</m:mn></m:mrow>
-  </m:mrow>
+<math display='block'>
+ <mrow>
+  <mi>a</mi><mstyle displaystyle='true'>
+   <mrow><munderover>
+    <mo>&#x222B;</mo>
+    <mn>0</mn>
+    <mi>c</mi>
+   </munderover>
+   <mrow>
+    <mn>2</mn><mi>x</mi><mo>&#x2212;</mo><mn>1</mn></mrow>
+  </mrow>
   
- </m:mstyle></m:mrow>
-</m:math>
+ </mstyle></mrow>
+</math>
 
 
 <p>
