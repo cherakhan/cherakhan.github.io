@@ -11,7 +11,7 @@ Hi, I am <code>Ali</code>, a <i>Data Analyst</i> and <i>Biomedical Engineer</i> 
 
 <h1 style="font-size:20px;; color:orange"># Bachelor</h1>
 <p>
-I finished my bachelor's degree in <i>Petroleum Engineering</i> at <i>Petroleum University of Technology</i>. Although I had published several papers and gained experience in mathematical modeling and machine learning, I was not interested in oil :)! After graduation, I decided to learn about stem cells, which was/is a hot topic in Iran, and joined <code>Dr. Naser Ahmadbeigi</code>'s Lab at <i>Digestive Disease Research Institute</i>, Shariati Hospital. I was trained in mesenchymal stromal cells for about 8 months.
+I finished my bachelor's degree in <i>Petroleum Engineering</i> at <i>Petroleum University of Technology</i>. Although I had published several papers and gained experience in mathematical modeling and machine learning, I was not interested in oil :) . After graduation, I decided to learn about stem cells, which was/is a hot topic in Iran, and joined <code>Dr. Naser Ahmadbeigi</code>'s Lab at <i>Digestive Disease Research Institute</i>, Shariati Hospital. I was trained in mesenchymal stromal cells for about 8 months.
 <p>
 
 
