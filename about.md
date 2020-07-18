@@ -6,31 +6,20 @@ permalink: /about/
 
 <h1 style="font-size:20px;; color:orange"># Who am I?</h1>
 
-<math display='block'>
- <semantics>
-  <mrow>
-   <mi>a</mi><mstyle displaystyle='true'>
-    <mrow><munderover>
-     <mo>&#x222B;</mo>
-     <mn>0</mn>
-     <mi>c</mi>
-    </munderover>
-    <mrow>
-     <mn>2</mn><mi>x</mi><mo>&#x2212;</mo><mn>1</mn></mrow>
-   </mrow>
-   
-  </mstyle></mrow>
- <annotation encoding='MathType-MTEF'>MathType@MTEF@5@5@+=
- feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbd1uvGm
- vyUnhitvMCPzgarmqr1ngBPrgitLxBI9gBaerbd9wDYLwzYbItLDha
- ruavP1wzZbItLDhis9wBH5garqqr1ngBPrgifHhDYfgasaacH8srps
- 0lbbf9q8WrFfeuY=Hhbbf9v8qqaqFr0xc9pk0xbba9q8WqFfea0=yr
- 0RYxir=Jbba9q8aq0=yq=He9q8qqQ8frFve9Fve9Ff0dmeaabaqaci
- GacaGaaeqabaWaaqaafaaakeaacaWGHbWaa8qCaeaacaaIYaGaamiE
- aiabgkHiTiaaigdaaSqaaiaaicdaaeaacaWGJbaaniabgUIiYdaaaa@4740@
- </annotation>
-</semantics>
-</math>
+<m:math display='block'>
+ <m:mrow>
+  <m:mi>a</m:mi><m:mstyle displaystyle='true'>
+   <m:mrow><m:munderover>
+    <m:mo>&#x222B;</m:mo>
+    <m:mn>0</m:mn>
+    <m:mi>c</m:mi>
+   </m:munderover>
+   <m:mrow>
+    <m:mn>2</m:mn><m:mi>x</m:mi><m:mo>&#x2212;</m:mo><m:mn>1</m:mn></m:mrow>
+  </m:mrow>
+  
+ </m:mstyle></m:mrow>
+</m:math>
 
 
 <p>
