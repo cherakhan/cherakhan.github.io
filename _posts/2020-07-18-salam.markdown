@@ -4,4 +4,73 @@ title:  "Salaaam"
 date:   2020-07-04 21:28:15 +0700
 ---
 
-# Divanegi
+## How to have use multiple GitHub accounts on a same computer without adding more SSH keys (for windows)?
+
+
+
+1. Open ***Git Bash*** (not cmd !) 
+
+2. Go to your ***local directory*** that you want to clone the repository from ***new account*** 
+
+3. ***Clone*** the new repository
+
+   ```
+   $ https://github.com/USERNAME/REPOSITORY.git
+   ```
+
+   now you have cloned your new repository. To check if it has been cloned or not
+
+   ```
+   $ ls
+   ```
+
+4. List your existing remotes in order to get the name of the remote you want to change.
+
+   ```
+   $ git remote -v
+   origin  git@hostname:USERNAME/REPOSITORY.git (fetch)
+   origin  git@hostname:USERNAME/REPOSITORY.git (push)
+   ```
+
+5. Change your remote's URL from SSH to HTTPS with the `git remote set-url` command (only need to change `USERNAME` and `PROJECTNAME`)
+
+   ```
+   $ git config --local credential.https://github.com.user1 user1
+   $ git config --local credential.useHttpPath true
+   $ git config --local credential.helper manager
+   $ git remote set-url origin https://USERNAME@github.com/USERNAME/PROJECTNAME.git
+   ```
+
+6. Verify that the remote URL has changed (here you would see the new `USERNAME`)
+
+   ```
+   $ git remote -v
+   # Verify new remote URL
+   origin  https://USERNAME@github.com/USERNAME/PROJECTNAME.git (fetch)
+   origin  https://USERNAME@github.com/USERNAME/PROJECTNAME.git (push)
+   ```
+
+7. Pull request
+
+   ```
+   $ git pull origin master
+   ```
+
+8. add you documents and then `git add`
+
+   ```
+   $ git add --all
+   ```
+
+9. commit
+
+   ```
+   $ git commit -m "comment"
+   ```
+
+10. Push 
+
+    ```
+    $ git push origin master
+    ```
+
