@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Salaaam"
+title:  "How to have use multiple GitHub accounts on a same computer without adding more SSH keys (for windows)?"
 date:   2020-07-04 21:28:15 +0700
 ---
-
-## How to have use multiple GitHub accounts on a same computer without adding more SSH keys (for windows)?
-
 
 
 1. Open ***Git Bash*** (not cmd !) 
