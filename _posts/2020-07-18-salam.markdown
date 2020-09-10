@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to have use multiple GitHub accounts on a same computer without adding more SSH keys (for windows)?"
+title:  "How to use multiple GitHub accounts on the same computer without adding more SSH keys (for Windows)?"
 date:   2020-07-04 21:28:15 +0700
 ---
 
